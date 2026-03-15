@@ -164,6 +164,22 @@ RevPlay
 
 
 
+\## System Architecture
+
+
+
+!\[System Architecture](diagrams/system-architecture.png)
+
+
+
+\## ER Diagram
+
+
+
+!\[ER Diagram](diagrams/er-diagram.png)
+
+
+
 
 
 \---
